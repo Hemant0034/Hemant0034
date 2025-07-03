@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hemant</h1>
-<h3 align="center">Professional Experience in Automation Tester |Selenium | Java | Rest Assured | Postman | Jenkins</h3>
+<h3 align="center">Professional Experience in Automation Testing |Selenium | Java | Rest Assured | Postman | Jenkins | Functional Testing </h3>
 
 - 🔭 I’m currently working on **Capgemini as a Consultant**
+
+- Experience in Banking, FinTech and E-Commerce Domain 
 
 - 💬 Ask me about **Manual and Automation Testing**
 
