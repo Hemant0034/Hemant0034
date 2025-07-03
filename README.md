@@ -5,7 +5,7 @@
 
 - Experience in Banking, FinTech and E-Commerce Domain 
 
-- 💬 Ask me about **Manual and Automation Testing**
+- 💬 Ask me about **QA , Career Guidance , Roadmap to become Full Stack**
 
 - 📫 How to reach me **hemant59sharma@gmail.com**
 
